@@ -37,6 +37,7 @@ At the end of this challenge, you should:
 * [Virtual Network peering](https://docs.microsoft.com/azure/virtual-network/virtual-network-peering-overview)
 * [Hub and Spoke topology in Azure](https://docs.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
 * [What is VPN Gateway](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-about-vpngateways)
+* [Setup Hub and Spoke vNet topology](/./Resources/Hubandspokescript.md)
 * [Cisco CSR 1000v On Premises Template](./Resources/wthcsronprem.md)
 * [Cisco CSR 1000v Central NVA](./Resources/centralnva.md)
 * [Create a Site-to-Site connection in the Azure portal](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal)
